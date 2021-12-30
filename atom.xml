@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yujiale8.github.io</id>
     <title>Joelの部落格</title>
-    <updated>2021-12-29T06:56:26.685Z</updated>
+    <updated>2021-12-30T08:37:59.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yujiale8.github.io"/>
     <link rel="self" href="https://yujiale8.github.io/atom.xml"/>
@@ -67,7 +67,6 @@
 
 ### 三级标题（h3）：正文的小标题
 
-
 </code></pre>
 </li>
 <li>
@@ -96,7 +95,6 @@
 - 论据 2 
 - 论据 3
 
-
 ---
 
 长文章的标题层级
@@ -108,7 +106,6 @@
 #### 正文的三级标题 B
 
 #### 正文的三级标题 C
-
 
 
 </code></pre>
@@ -154,7 +151,6 @@
 文末别忘了贴上参考链接。
 
 * https://link-to-more-info
-
 
 </code></pre>
 </li>
@@ -331,11 +327,11 @@
 </code></pre>
 <p><strong>预览</strong></p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2263948"><label class="task-list-item-label" for="task-item-2263948"> 纯牛奶</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6508799"><label class="task-list-item-label" for="task-item-6508799"> 西瓜</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5382267"><label class="task-list-item-label" for="task-item-5382267"> 鸡蛋</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2869776"><label class="task-list-item-label" for="task-item-2869776"> 保鲜膜</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2719704"><label class="task-list-item-label" for="task-item-2719704"> 猪肉（暂时买不起）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6034939"><label class="task-list-item-label" for="task-item-6034939"> 纯牛奶</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2559909"><label class="task-list-item-label" for="task-item-2559909"> 西瓜</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4318968"><label class="task-list-item-label" for="task-item-4318968"> 鸡蛋</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5923722"><label class="task-list-item-label" for="task-item-5923722"> 保鲜膜</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4918215"><label class="task-list-item-label" for="task-item-4918215"> 猪肉（暂时买不起）</label></li>
 </ul>
 <h3 id="引用">引用<a href="#%E5%BC%95%E7%94%A8"></a></h3>
 <p>在每一行使用 <code>&gt;</code> 符号，包括换行的句子。</p>
@@ -579,7 +575,7 @@ by 普希金</p>
 <p>🏷️  你可以对文章进行标签分组</p>
 <p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
 <p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>🌎  你可以使用 <strong>Github pages</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
 <p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
 <p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
 <p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
