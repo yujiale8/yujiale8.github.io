@@ -126,6 +126,8 @@ Gridea 主页
       
 
       
+        <div id="vlaine-comment"></div>
+      
 
       <footer class="py-12 text-center px-4 md:px-0" v-pre>
   Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
@@ -311,6 +313,23 @@ Gridea 主页
     //初始化
     initImg();
   </script>
+  
+    <script type="application/javascript" src="https://unpkg.com/valine"></script>
+<script type="application/javascript">
+  new Valine({
+    el: '#vlaine-comment',
+    appId: 'M0MD5QezwuFqw96wjf4bx3xu-gzGzoHsz',
+    appKey: 'AGtzGtAbuxnyzd3r9npYdEWE',
+    pageSize: 10,
+    notify: true,
+    avatar: 'mp',
+    verify: true,
+    placeholder: '来都来了，评论一下呗~',
+    visitor: true,
+    highlight: true,
+    recordIP: false,
+  })
+</script>
   
   
 </body>
