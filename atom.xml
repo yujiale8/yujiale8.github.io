@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yujiale8.github.io</id>
     <title>Joelの部落格</title>
-    <updated>2021-12-31T04:56:10.925Z</updated>
+    <updated>2021-12-31T04:57:59.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yujiale8.github.io"/>
     <link rel="self" href="https://yujiale8.github.io/atom.xml"/>
@@ -16,9 +16,14 @@
         <link href="https://yujiale8.github.io/post/huan/">
         </link>
         <updated>2021-12-30T14:14:42.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>原文地址 <a href="https://mp.weixin.qq.com/s/dF0Je1CloJttk6t620y67A">我们该如何去解释这疯狂的一年？</a> by 先生制造</p>
+</blockquote>
+]]></summary>
         <content type="html"><![CDATA[<blockquote>
 <p>原文地址 <a href="https://mp.weixin.qq.com/s/dF0Je1CloJttk6t620y67A">我们该如何去解释这疯狂的一年？</a> by 先生制造</p>
 </blockquote>
+<!-- more -->
 <p><strong>系统</strong></p>
 <p>11 月 5 日，“成都 8.2 万人存在时空伴随风险” 登上微博热搜。“时空伴随” 一词第一次得到大规模运用。</p>
 <p>“时空伴随者”，指本人的电话号码与确诊号码在同一时空网格（范围是 800M * 800M）共同停留超过 10 分钟，或者最近 14 天任一方号码累计停留时长超过 30 小时以上，查出的号码为时空伴随号码。此时，个人的健康码会从绿色变成黄色，并被系统标示为 “时空伴随”。</p>
@@ -473,11 +478,11 @@
 </code></pre>
 <p><strong>预览</strong></p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6067879"><label class="task-list-item-label" for="task-item-6067879"> 纯牛奶</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5953656"><label class="task-list-item-label" for="task-item-5953656"> 西瓜</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3054683"><label class="task-list-item-label" for="task-item-3054683"> 鸡蛋</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9362341"><label class="task-list-item-label" for="task-item-9362341"> 保鲜膜</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8413835"><label class="task-list-item-label" for="task-item-8413835"> 猪肉（暂时买不起）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4690862"><label class="task-list-item-label" for="task-item-4690862"> 纯牛奶</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7830329"><label class="task-list-item-label" for="task-item-7830329"> 西瓜</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4253772"><label class="task-list-item-label" for="task-item-4253772"> 鸡蛋</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8870653"><label class="task-list-item-label" for="task-item-8870653"> 保鲜膜</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-807162"><label class="task-list-item-label" for="task-item-807162"> 猪肉（暂时买不起）</label></li>
 </ul>
 <h3 id="引用">引用<a href="#%E5%BC%95%E7%94%A8"></a></h3>
 <p>在每一行使用 <code>&gt;</code> 符号，包括换行的句子。</p>
