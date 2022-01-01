@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yujiale8.github.io</id>
     <title>Joelの部落格</title>
-    <updated>2022-01-01T13:41:42.239Z</updated>
+    <updated>2022-01-01T14:01:29.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yujiale8.github.io"/>
     <link rel="self" href="https://yujiale8.github.io/atom.xml"/>
@@ -10,6 +10,83 @@
     <logo>https://yujiale8.github.io/images/avatar.png</logo>
     <icon>https://yujiale8.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Joelの部落格</rights>
+    <entry>
+        <title type="html"><![CDATA[A brief intro to Semantics]]></title>
+        <id>https://yujiale8.github.io/post/semantics/</id>
+        <link href="https://yujiale8.github.io/post/semantics/">
+        </link>
+        <updated>2022-01-01T13:53:57.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="semantics"><strong>Semantics</strong></h2>
+<p>The study of the meaning of words, phrases and sentences.</p>
+<h2 id="conceptual-and-associative-meaning"><strong>Conceptual and Associative Meaning</strong></h2>
+<p><strong>Conceptual Meaning</strong> covers these basic, essential components of meaning which are conveyed by the literal use of a word. <em><strong>E.g. needle is may include thin, sharp, steel instrument;</strong></em><br>
+<strong>Associative Meaning</strong> is the idea, connection what that specific word brings to you. E.g. needle is related to painful</p>
+<h2 id="componential-analysis">Componential Analysis</h2>
+<p><strong>Componential analysis</strong> is a way proposed by the structural semanticists to analyze word meaning.</p>
+<p>The approach is based upon the belief that the meaning of a word can be broken down into meaning components, called <strong>semantic features</strong>.</p>
+<p><em><strong>e.g. The hamburger ate the boy.</strong></em><br>
+This sentence is syntactically perfect : S =&gt; NP + VP ( V + NP )<br>
+But the meaning is not acceptable. The verb and the subject do not relate each other.<br>
+We identify the meaning by analyzing some <strong>semantic features</strong> .</p>
+<figure data-type="image" tabindex="1"><img src="https://yujiale8.github.io/post-images/1641045354214.png" alt="" loading="lazy"></figure>
+<h2 id="semantic-roles"><strong>Semantic Roles</strong></h2>
+<p><strong>Agent</strong>: an entiy that performs an action (John ran.)</p>
+<p><strong>Theme</strong>: an entity that undergoes an action or is involved in an action or affected by an action or is simply described (Mary called <strong>Bill</strong>; <strong>The ball</strong> is red.)</p>
+<p><strong>Location</strong>: the place where an action takes place. (It rains <strong>in Spain</strong>)</p>
+<p><strong>Goal</strong>: the place where an action is directed. (Put the cat <strong>on the porch</strong>)</p>
+<p><strong>Source</strong>: the place from which an action originates. (He flew from <strong>Iowa</strong> to Idaho)</p>
+<p><strong>Instrument</strong>: the means by which an action is performed. (He cuts hair <strong>with a razor</strong>.)</p>
+<p><strong>Experiencer</strong>: an entity that perceives sth. (<strong>Helen</strong> heard Robert playing the piano.)</p>
+<h2 id="lexical-relations"><strong>Lexical Relations</strong></h2>
+<h3 id="synonymy"><strong>Synonymy</strong></h3>
+<p>Words which share a <strong>likeness</strong> in <strong>denotation</strong> as well as in <strong>part of speech</strong>.<br>
+<em><strong>E.g. broad – wide, large – big</strong></em></p>
+<h3 id="antonymy"><strong>Antonymy</strong></h3>
+<p>Antonymy is concerned with semantic <strong>opposition</strong>.<br>
+<em><strong>E.g. alive – dead, big – small</strong></em></p>
+<ul>
+<li><strong>Gradable Antonyms</strong>: Antonyms that can be used in comparative constructions.<br>
+E.g. bigger than – smaller than the negative of one member of the pair does not necessarily imply the other.<br>
+<em><strong>e.g. That dog is not old. (It does not have to mean “ that dog is young“).</strong></em></li>
+<li><strong>Non – Gradable Antonyms ( Complementary Pairs )</strong>: Comparative constructions are not normally used, and the negative of one member does imply the other.<br>
+<em><strong>e.g. deader / more dead =&gt; not possible</strong></em><br>
+<em><strong>e.g. that person is not dead: that person is alive.</strong></em></li>
+<li><strong>Reversives (Converse antonyms)</strong><br>
+They do the opposite of the other action.<br>
+<em><strong>e.g. tie – untie, enter – exit</strong></em></li>
+</ul>
+<h3 id="hyponymy"><strong>Hyponymy</strong></h3>
+<p>When the meaning of one form is included in the meaning of another, the relationship is described as <strong>hyponymy</strong>.<br>
+<em><strong>e. g . rose – flower, carrot – vegetable</strong></em><br>
+rose is a hyponymy of flower - carrot is a hyponymy of vegetable<br>
+Co – Hyponymy/ Super ordinate<br>
+Animal ( super ordinate ) =&gt; horse / dog / bird<br>
+Horse, dog, bird =&gt; co- hyponymies of animal</p>
+<figure data-type="image" tabindex="2"><img src="https://yujiale8.github.io/post-images/1641045390639.png" alt="" loading="lazy"></figure>
+<h3 id="prototypes"><strong>Prototypes</strong></h3>
+<p>A prototype is the best example of a category.</p>
+<h3 id="homophony"><strong>Homophony</strong></h3>
+<p>When two or more different written forms have the same pronunciation they are described as homophones.<br>
+<em><strong>E.g. bear – bare, meet – meat, write - right</strong></em></p>
+<h3 id="homonyms"><strong>Homonyms</strong></h3>
+<p>We use the term homonymy when one form (written or spoken) has two or more unrelated meanings.<br>
+<em><strong>E.g. bank ( bank – of a river ), (bank – financial institution )</strong></em></p>
+<h3 id="polysemy"><strong>Polysemy</strong></h3>
+<p>when one form ( written and spoken ) has multiple meanings which are all related by extension .<br>
+<em><strong>E.g. head =&gt; top of your body / top of a glass of beer / top of a company</strong></em></p>
+<h3 id="metonymy"><strong>Metonymy</strong></h3>
+<p>A type of relation between words based simply on a close connection in everyday experience.<br>
+<em><strong>E.g. bottle – coke ( a container – contents relation )<br>
+car – wheels ( a whole – part relation )<br>
+king – crown ( a representative – symbol relation )</strong></em></p>
+<h3 id="collocation"><strong>Collocation</strong></h3>
+<p>the words that naturally go together.<br>
+<em><strong>E.g. hammer – nail<br>
+table – chair<br>
+salt – pepper</strong></em><br>
+They frequently occur together.</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[教与玩，初论教育与玩乐]]></title>
         <id>https://yujiale8.github.io/post/education-and-fun/</id>
@@ -604,11 +681,11 @@
 </code></pre>
 <p><strong>预览</strong></p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4210391"><label class="task-list-item-label" for="task-item-4210391"> 纯牛奶</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8248026"><label class="task-list-item-label" for="task-item-8248026"> 西瓜</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2731859"><label class="task-list-item-label" for="task-item-2731859"> 鸡蛋</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7754963"><label class="task-list-item-label" for="task-item-7754963"> 保鲜膜</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1528393"><label class="task-list-item-label" for="task-item-1528393"> 猪肉（暂时买不起）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3955336"><label class="task-list-item-label" for="task-item-3955336"> 纯牛奶</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-32115"><label class="task-list-item-label" for="task-item-32115"> 西瓜</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9035268"><label class="task-list-item-label" for="task-item-9035268"> 鸡蛋</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6795417"><label class="task-list-item-label" for="task-item-6795417"> 保鲜膜</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3106858"><label class="task-list-item-label" for="task-item-3106858"> 猪肉（暂时买不起）</label></li>
 </ul>
 <h3 id="引用">引用<a href="#%E5%BC%95%E7%94%A8"></a></h3>
 <p>在每一行使用 <code>&gt;</code> 符号，包括换行的句子。</p>
