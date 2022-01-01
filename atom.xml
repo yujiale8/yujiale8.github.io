@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yujiale8.github.io</id>
     <title>Joelの部落格</title>
-    <updated>2022-01-01T13:00:57.398Z</updated>
+    <updated>2022-01-01T13:01:53.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yujiale8.github.io"/>
     <link rel="self" href="https://yujiale8.github.io/atom.xml"/>
@@ -82,7 +82,7 @@
 <h3 id="学习平台">#学习平台</h3>
 <p>Joel 喜欢高质量免费（白嫖）的教育平台，相信教育应当是高质量且低付费的，因此他特别喜欢在<a href="https://zh.khanacademy.org/"><strong>可汗学院</strong></a>、<a href="https://www.edx.org/"><strong>edX</strong></a>、<a href="https://www.coursera.org/"><strong>coursera</strong></a>等在线课程平台学习如何学习与教学。</p>
 <h3 id="编程">#编程</h3>
-<p>同时，Joel 也喜欢学习 Coding，他在阅读<a href="https://maggieappleton.com/"><strong>拥有更多图示的 Maggie</strong></a>和更加严谨的<a href="https://www.w3school.com.cn/"><strong>W3C在线教程</strong></a>。</p>
+<p>同时，Joel 也喜欢学习 Coding，他在阅读拥有更多图示的<a href="https://maggieappleton.com/">** Maggie**</a>和更加严谨的<a href="https://www.w3school.com.cn/"><strong>W3C在线教程</strong></a>。</p>
 <h2 id="joel-的邮件通讯">Joel 的邮件通讯</h2>
 <p>Joel 还喜欢通过电子邮件来获取信息，因此他订阅了很多人的 Newsletter，例如：</p>
 <ul>
@@ -569,11 +569,11 @@
 </code></pre>
 <p><strong>预览</strong></p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9071625"><label class="task-list-item-label" for="task-item-9071625"> 纯牛奶</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-176514"><label class="task-list-item-label" for="task-item-176514"> 西瓜</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1071388"><label class="task-list-item-label" for="task-item-1071388"> 鸡蛋</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7101372"><label class="task-list-item-label" for="task-item-7101372"> 保鲜膜</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6129979"><label class="task-list-item-label" for="task-item-6129979"> 猪肉（暂时买不起）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-942081"><label class="task-list-item-label" for="task-item-942081"> 纯牛奶</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8228569"><label class="task-list-item-label" for="task-item-8228569"> 西瓜</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6226836"><label class="task-list-item-label" for="task-item-6226836"> 鸡蛋</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-618441"><label class="task-list-item-label" for="task-item-618441"> 保鲜膜</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8631627"><label class="task-list-item-label" for="task-item-8631627"> 猪肉（暂时买不起）</label></li>
 </ul>
 <h3 id="引用">引用<a href="#%E5%BC%95%E7%94%A8"></a></h3>
 <p>在每一行使用 <code>&gt;</code> 符号，包括换行的句子。</p>
