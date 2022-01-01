@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yujiale8.github.io</id>
     <title>Joelの部落格</title>
-    <updated>2022-01-01T13:01:53.643Z</updated>
+    <updated>2022-01-01T13:04:12.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yujiale8.github.io"/>
     <link rel="self" href="https://yujiale8.github.io/atom.xml"/>
@@ -86,15 +86,15 @@
 <h2 id="joel-的邮件通讯">Joel 的邮件通讯</h2>
 <p>Joel 还喜欢通过电子邮件来获取信息，因此他订阅了很多人的 Newsletter，例如：</p>
 <ul>
+<li>优质英文新闻 <a href="https://nextdraft.com/"><strong>NextDraft</strong></a>和 <a href="https://aeon.co/"><strong>Aeon</strong></a>；</li>
+<li>探究如何更好生活的<a href="https://newsletter.weichen.blog/"><strong>生活奇旅</strong></a>；</li>
+<li>呈现教育新闻，教育动态的<a href="https://www.veritaschina.org/newsletter/"><strong>唯理通讯</strong></a>；</li>
+<li>新闻媒体从业人方可成写就的<a href="https://www.getrevue.co/profile/newslab"><strong>新闻实验室</strong></a>；</li>
+<li>分享效率、习惯和思维模式的 <a href="https://xiao.do/"><strong>happy letter</strong></a>；</li>
 <li>致力于认识自己，好好生活的文浩主笔的<a href="https://via.hedwig.pub/"><strong>事不过三</strong></a>；</li>
 <li>探索何为游戏，游戏何为的由叶梓涛创作的<a href="https://xpaidia.zhubai.love/"><strong>落日间</strong></a>；</li>
-<li>新闻媒体从业人方可成写就的<a href="https://www.getrevue.co/profile/newslab"><strong>新闻实验室</strong></a>；</li>
-<li>探究如何更好生活的<a href="https://newsletter.weichen.blog/"><strong>生活奇旅</strong></a>；</li>
-<li>王德尔创作的围绕设计，关于设计的 <a href="https://design.zhubai.love/"><strong>Things About Design</strong></a>；</li>
 <li>关于未来，关于人文与科技的时事通讯<a href="https://shyrz.zhubai.love/"><strong>Shyrism.News</strong></a>；</li>
-<li>分享效率、习惯和思维模式的 <a href="https://xiao.do/"><strong>happy letter</strong></a>；</li>
-<li>呈现教育新闻，教育动态的<a href="https://www.veritaschina.org/newsletter/"><strong>唯理通讯</strong></a>；</li>
-<li>优质英文新闻 <a href="https://nextdraft.com/"><strong>NextDraft</strong></a>和 <a href="https://aeon.co/"><strong>Aeon</strong></a>。</li>
+<li>王德尔创作的围绕设计，关于设计的 <a href="https://design.zhubai.love/"><strong>Things About Design</strong></a>；</li>
 </ul>
 ]]></content>
     </entry>
@@ -569,11 +569,11 @@
 </code></pre>
 <p><strong>预览</strong></p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-942081"><label class="task-list-item-label" for="task-item-942081"> 纯牛奶</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-8228569"><label class="task-list-item-label" for="task-item-8228569"> 西瓜</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6226836"><label class="task-list-item-label" for="task-item-6226836"> 鸡蛋</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-618441"><label class="task-list-item-label" for="task-item-618441"> 保鲜膜</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8631627"><label class="task-list-item-label" for="task-item-8631627"> 猪肉（暂时买不起）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9518146"><label class="task-list-item-label" for="task-item-9518146"> 纯牛奶</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5480914"><label class="task-list-item-label" for="task-item-5480914"> 西瓜</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3230736"><label class="task-list-item-label" for="task-item-3230736"> 鸡蛋</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4954772"><label class="task-list-item-label" for="task-item-4954772"> 保鲜膜</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7984022"><label class="task-list-item-label" for="task-item-7984022"> 猪肉（暂时买不起）</label></li>
 </ul>
 <h3 id="引用">引用<a href="#%E5%BC%95%E7%94%A8"></a></h3>
 <p>在每一行使用 <code>&gt;</code> 符号，包括换行的句子。</p>
