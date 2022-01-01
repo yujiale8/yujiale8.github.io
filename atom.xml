@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yujiale8.github.io</id>
     <title>Joelの部落格</title>
-    <updated>2022-01-01T12:58:05.875Z</updated>
+    <updated>2022-01-01T13:00:57.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yujiale8.github.io"/>
     <link rel="self" href="https://yujiale8.github.io/atom.xml"/>
@@ -74,7 +74,7 @@
 <h3 id="数字生活">#数字生活</h3>
 <p>Joel 很赶时髦，他关注数字生活，在<a href="https://www.expreview.com/"><strong>超能网</strong></a>看硬核的硬件测评，在<a href="https://sspai.com/"><strong>少数派</strong></a>学如何与互联网这个大家伙相处，</p>
 <h3 id="个人博客">#个人博客</h3>
-<p>Joel 也在看个人博客，看<a href="https://jiangtanghu.com/cn/"><strong>胡江堂的个人博客</strong></a>仿佛瞥见了他的人生一隅，同时也得管窥互联网发展历程；看<a href="http://blog.sina.com.cn/rhapsodia"><strong>晚枫的博客</strong></a>，学习诗歌翻译和外文研究与教学；看<a href="https://tingtalk.me/"><strong>庭勃士的庭说</strong></a>，系统全面地入门一个小领域；看<a href="http://www.ftium4.com/"><strong>龙爪槐守望者</strong></a>，学习交互设计和各种软件地交互体验小细节。</p>
+<p>Joel 也在看个人博客，看<a href="https://jiangtanghu.com/cn/"><strong>胡江堂的个人博客</strong></a>仿佛瞥见了他的人生一隅，同时也得管窥互联网发展历程；看<a href="http://blog.sina.com.cn/rhapsodia"><strong>晚枫的博客</strong></a>，学习诗歌翻译和外文研究与教学；看<a href="https://tingtalk.me/"><strong>庭勃士的庭说</strong></a>，系统全面地入门一个小领域；看<a href="http://www.ftium4.com/"><strong>龙爪槐守望者</strong></a>，学习交互设计和各种软件的交互体验小细节。</p>
 <h3 id="逻辑">#逻辑</h3>
 <p>Joel 看起来似乎是一个严谨的人，因此他在学习逻辑时经常翻看有哪些<a href="http://www.fallacyfiles.org/">逻辑谬误</a>。</p>
 <h3 id="生活">#生活</h3>
@@ -569,11 +569,11 @@
 </code></pre>
 <p><strong>预览</strong></p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7235740"><label class="task-list-item-label" for="task-item-7235740"> 纯牛奶</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7617834"><label class="task-list-item-label" for="task-item-7617834"> 西瓜</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7530961"><label class="task-list-item-label" for="task-item-7530961"> 鸡蛋</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2155957"><label class="task-list-item-label" for="task-item-2155957"> 保鲜膜</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1835549"><label class="task-list-item-label" for="task-item-1835549"> 猪肉（暂时买不起）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9071625"><label class="task-list-item-label" for="task-item-9071625"> 纯牛奶</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-176514"><label class="task-list-item-label" for="task-item-176514"> 西瓜</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1071388"><label class="task-list-item-label" for="task-item-1071388"> 鸡蛋</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7101372"><label class="task-list-item-label" for="task-item-7101372"> 保鲜膜</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6129979"><label class="task-list-item-label" for="task-item-6129979"> 猪肉（暂时买不起）</label></li>
 </ul>
 <h3 id="引用">引用<a href="#%E5%BC%95%E7%94%A8"></a></h3>
 <p>在每一行使用 <code>&gt;</code> 符号，包括换行的句子。</p>
