@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yujiale8.github.io</id>
     <title>Joelの部落格</title>
-    <updated>2022-01-01T14:21:24.193Z</updated>
+    <updated>2022-01-01T15:50:41.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yujiale8.github.io"/>
     <link rel="self" href="https://yujiale8.github.io/atom.xml"/>
@@ -606,11 +606,11 @@ They frequently occur together.</p>
 </code></pre>
 <p><strong>预览</strong></p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8441543"><label class="task-list-item-label" for="task-item-8441543"> 纯牛奶</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-4353194"><label class="task-list-item-label" for="task-item-4353194"> 西瓜</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7410639"><label class="task-list-item-label" for="task-item-7410639"> 鸡蛋</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2808021"><label class="task-list-item-label" for="task-item-2808021"> 保鲜膜</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6642915"><label class="task-list-item-label" for="task-item-6642915"> 猪肉（暂时买不起）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1782459"><label class="task-list-item-label" for="task-item-1782459"> 纯牛奶</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3032574"><label class="task-list-item-label" for="task-item-3032574"> 西瓜</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4656745"><label class="task-list-item-label" for="task-item-4656745"> 鸡蛋</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7271849"><label class="task-list-item-label" for="task-item-7271849"> 保鲜膜</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-773791"><label class="task-list-item-label" for="task-item-773791"> 猪肉（暂时买不起）</label></li>
 </ul>
 <h3 id="引用">引用<a href="#%E5%BC%95%E7%94%A8"></a></h3>
 <p>在每一行使用 <code>&gt;</code> 符号，包括换行的句子。</p>
@@ -847,8 +847,7 @@ by 普希金</p>
 <p>👏  于千万人之中遇见你所要遇见的人，于千万年之中，时间的无涯荒野里，没有早一步，也没有晚一步，刚巧赶上了。——张爱玲</p>
 </blockquote>
 <!-- more -->
-<h2 id="关于我">关于我</h2>
-<p>🐟</p>
+<h2 id="关于我">关于我 🐟</h2>
 <p>简单讲讲英语教师、二语习不得学者、懒得思考哲学家、不会代码程序员、没得审美设计师……<br>
 格外注重个人空间（社恐），尤其擅长知难而退（打退堂鼓），特别关注数字生活（爱玩游戏）。</p>
 <h2 id="关于本博客">关于本博客 📕</h2>
@@ -863,8 +862,8 @@ by 普希金</p>
 <p>请随意参观，不必参照一定的顺序。<br>
 只是本人喜欢隐喻，因此根据不同的完成程度文章会被打上幼苗、分蘖、抽穗、结实等四个标签，表示文章的重要阶段，例如本文正在不断完善，但尚未成型，因此属于抽穗期，你可以在文章开头看见抽穗这样一个标签。要参与博客写作，请随时致信 <code>yujiale8#onmail.com（#改为@）</code> 联系我。</p>
 <h2 id="碎碎念">碎碎念 💬</h2>
-<p>😊新开博客，请多关照~<br>
-本博客作为<a href="https://index.pmthinking.com/Digital-Garden-effa3aa294af4d07ac279e74aec69602">数字花园</a>的第一株苗，自然会被细心呵护，因此请无需担心文内有软广，洗稿水文等低质内容出现在本博客中。如果您还不了解<a href="https://index.pmthinking.com/Digital-Garden-effa3aa294af4d07ac279e74aec69602">数字花园</a>（Digita Garden），您可以参考少楠编写的<a href="https://index.pmthinking.com/Digital-Garden-effa3aa294af4d07ac279e74aec69602">这篇文章</a>，如果没有特殊说明，本博客所有原创内容版权归大家所有，请随意转载使用。如果您认为本博客有内容侵犯到您的权益，请随时发邮件至yujiale8#onmail.com(#替换为@)，我会立即删除并诚挚道歉。</p>
+<p>😊 新开博客，请多关照~<br>
+本博客作为<a href="https://index.pmthinking.com/Digital-Garden-effa3aa294af4d07ac279e74aec69602">数字花园</a>的第一株苗，自然会被细心呵护，因此请无需担心文内有软广，洗稿水文等低质内容出现在本博客中。如果您还不了解<a href="https://index.pmthinking.com/Digital-Garden-effa3aa294af4d07ac279e74aec69602">数字花园</a>（Digital Garden），您可以参考少楠编写的<a href="https://index.pmthinking.com/Digital-Garden-effa3aa294af4d07ac279e74aec69602">这篇文章</a>，如果没有特殊说明，本博客所有原创内容版权归大家所有，请随意转载使用。如果您认为本博客有内容侵犯到您的权益，请随时发邮件至yujiale8#onmail.com(#替换为@)，我会立即删除并诚挚道歉。</p>
 <p>😘 Enjoy~</p>
 ]]></content>
     </entry>
