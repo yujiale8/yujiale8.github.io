@@ -1,19 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://yujiale8.github.io</id>
+    <id>http://localhost:4000</id>
     <title>Joelの部落格</title>
-    <updated>2021-12-31T15:49:11.468Z</updated>
+    <updated>2022-01-01T08:47:34.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://yujiale8.github.io"/>
-    <link rel="self" href="https://yujiale8.github.io/atom.xml"/>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://yujiale8.github.io/images/avatar.png</logo>
-    <icon>https://yujiale8.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Joelの部落格</rights>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
+    <rights>All rights reserved 2022, Joelの部落格</rights>
     <entry>
-        <title type="html"><![CDATA[Joel的浏览器收藏夹里都有什么？]]></title>
-        <id>https://yujiale8.github.io/post/joel-is-reading-something/</id>
-        <link href="https://yujiale8.github.io/post/joel-is-reading-something/">
+        <title type="html"><![CDATA[Joel 最近都折腾了什么？]]></title>
+        <id>http://localhost:4000/post/joel-zui-jin-du-zhe-teng-liao-shi-me/</id>
+        <link href="http://localhost:4000/post/joel-zui-jin-du-zhe-teng-liao-shi-me/">
+        </link>
+        <updated>2022-01-01T07:19:55.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="joel-的博客们">Joel 的博客们</h2>
+<p>如你所见，Joel 新开了博客，标志着他开辟了他在互联网上的第一块地。他认为<a href="https://index.pmthinking.com/Digital-Garden-effa3aa294af4d07ac279e74aec69602">数字花园</a>的理论值得采纳，因此他将在本博客上践行数字花园理论，但又想要标新立异，因此他将理论稍加修改，命名为数字农场。Joel 目前总共维护着三个博客，分别是：</p>
+<ul>
+<li>使用 Gridea 写作的<a href="https://joel2561.xyz/">本博客</a></li>
+<li>使用本地 Markdown 写作的<a href="https://joel2561.github.io/">Joel 的部落格</a></li>
+<li>使用 Notion 进行写作的<a href="https://www.yujiale2561.ltd/">Joelhub</a></li>
+</ul>
+<p>你也许会疑惑，为何要同时写作三个博客，因为 hmm，我也不知道为什么（废话！）<br>
+不过，这三个博客的定位是不同的：</p>
+<ol>
+<li>
+<p>本博客全部内容均为原创，尊重文字、媒体、软件版权，致力于赋能简体中文互联网圈；</p>
+</li>
+<li>
+<p>而<a href="https://joel2561.github.io/">Joel 的部落格</a>则倾向于介绍各种实用技巧，针对教师群体引入工具使用心得、软件教程等；</p>
+</li>
+<li>
+<p><a href="https://www.yujiale2561.ltd/">Joelhub</a>则用于在给出原文链接的同时存档各类文章，以聚合优质文章，防止文章走丢等情况。对于保留所有权利的文章，本博客会给出原文链接，并且分享保存在<a href="https://web.archive.org/">Internet Archive</a>、<a href="https://ipfs.github.io/public-gateway-checker/">IPFS</a>和<a href="https://telegra.ph/">Telegraph</a>等互联网存档服务上的文章。</p>
+</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joel都在读写什么？]]></title>
+        <id>http://localhost:4000/post/joel-is-reading-something/</id>
+        <link href="http://localhost:4000/post/joel-is-reading-something/">
         </link>
         <updated>2021-12-31T14:25:00.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
@@ -49,8 +77,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[幻]]></title>
-        <id>https://yujiale8.github.io/post/huan/</id>
-        <link href="https://yujiale8.github.io/post/huan/">
+        <id>http://localhost:4000/post/huan/</id>
+        <link href="http://localhost:4000/post/huan/">
         </link>
         <updated>2021-12-30T14:14:42.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
@@ -203,8 +231,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Markdown入门指北]]></title>
-        <id>https://yujiale8.github.io/post/markdown-ru-men-zhi-bei/</id>
-        <link href="https://yujiale8.github.io/post/markdown-ru-men-zhi-bei/">
+        <id>http://localhost:4000/post/markdown-ru-men-zhi-bei/</id>
+        <link href="http://localhost:4000/post/markdown-ru-men-zhi-bei/">
         </link>
         <updated>2021-12-29T06:22:03.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
@@ -518,11 +546,11 @@
 </code></pre>
 <p><strong>预览</strong></p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9072704"><label class="task-list-item-label" for="task-item-9072704"> 纯牛奶</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2915878"><label class="task-list-item-label" for="task-item-2915878"> 西瓜</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3545664"><label class="task-list-item-label" for="task-item-3545664"> 鸡蛋</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2786535"><label class="task-list-item-label" for="task-item-2786535"> 保鲜膜</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2540920"><label class="task-list-item-label" for="task-item-2540920"> 猪肉（暂时买不起）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2881382"><label class="task-list-item-label" for="task-item-2881382"> 纯牛奶</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7471660"><label class="task-list-item-label" for="task-item-7471660"> 西瓜</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6829864"><label class="task-list-item-label" for="task-item-6829864"> 鸡蛋</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7505534"><label class="task-list-item-label" for="task-item-7505534"> 保鲜膜</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-3736725"><label class="task-list-item-label" for="task-item-3736725"> 猪肉（暂时买不起）</label></li>
 </ul>
 <h3 id="引用">引用<a href="#%E5%BC%95%E7%94%A8"></a></h3>
 <p>在每一行使用 <code>&gt;</code> 符号，包括换行的句子。</p>
@@ -747,8 +775,8 @@ by 普希金</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[初见]]></title>
-        <id>https://yujiale8.github.io/post/hello-from-joel/</id>
-        <link href="https://yujiale8.github.io/post/hello-from-joel/">
+        <id>http://localhost:4000/post/hello-from-joel/</id>
+        <link href="http://localhost:4000/post/hello-from-joel/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
