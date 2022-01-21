@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://localhost:4000</id>
+    <id>https://yujiale8.github.io</id>
     <title>Joelの部落格</title>
-    <updated>2022-01-21T15:24:40.776Z</updated>
+    <updated>2022-01-21T16:29:59.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://localhost:4000"/>
-    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <link rel="alternate" href="https://yujiale8.github.io"/>
+    <link rel="self" href="https://yujiale8.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>http://localhost:4000/images/avatar.png</logo>
-    <icon>http://localhost:4000/favicon.ico</icon>
+    <logo>https://yujiale8.github.io/images/avatar.png</logo>
+    <icon>https://yujiale8.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Joelの部落格</rights>
     <entry>
         <title type="html"><![CDATA[消息推送什么的（上）]]></title>
-        <id>http://localhost:4000/post/xiao-xi-tui-song-shi-me-de-shang/</id>
-        <link href="http://localhost:4000/post/xiao-xi-tui-song-shi-me-de-shang/">
+        <id>https://yujiale8.github.io/post/xiao-xi-tui-song-shi-me-de-shang/</id>
+        <link href="https://yujiale8.github.io/post/xiao-xi-tui-song-shi-me-de-shang/">
         </link>
         <updated>2022-01-21T05:50:46.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
@@ -30,27 +30,25 @@
 <p>你有没有想过，如果这些都不是你的错呢？如果消息推送的本意就是为了吸引你停下手中的工作，打开他们的APP呢？</p>
 <p>调用复杂的工具是有启动成本的，启动一台计算机尚且需要数十秒，调动人体的注意力，使人脑处于高速运转状态，更需要时间。有<a href="https://doi.org/10.1145/1054972.1055017">研究</a>指出，<strong>人们大约需要平均23分钟才能重新回到被打断前的任务中</strong>。这意味着，当你放任手机消息推送不管时，他就会在你泡好咖啡准备享受美好时光之时，蹦出来吞掉你一个又一个的23分钟。那么，是时候好好了解鲸吞蚕食注意力与时间的消息推送。</p>
 <h2 id="认识消息推送">认识消息推送</h2>
-<ol>
-<li>
 <h3 id="消息推送的类型">消息推送的类型</h3>
 <ul>
-<li>按照消息推送的形式来分，我们可以把消息分为三类：下拉通知（Banner notifications），角标通知（Badge notifications）和悬浮通知（Alerts）。</li>
-</ul>
-<figure data-type="image" tabindex="1"><img src="http://localhost:4000/post-images/1642770740728.png" alt="" loading="lazy"></figure>
-<ul>
+<li>
+<p>按照消息推送的形式来分，我们可以把消息分为三类：下拉通知（Banner notifications），角标通知（Badge notifications）和悬浮通知（Alerts）。</p>
+<figure data-type="image" tabindex="1"><img src="https://yujiale8.github.io/post-images/1642770740728.png" alt="" loading="lazy"></figure>
+</li>
 <li>
 <p>而按照消息推送的内容来分，消息可以分为两类：</p>
 <ul>
-<li>主动设置的消息推送，如日程提醒、闹钟、各种软件的提醒；</li>
-</ul>
-<figure data-type="image" tabindex="2"><img src="http://localhost:4000/post-images/1642772033103.png" alt="" loading="lazy"></figure>
-<ul>
-<li>另一类则是被动接受的消息推送，如垃圾短信、软件广告、促销推广、新闻资讯、聊天吹水；</li>
-</ul>
-</li>
-</ul>
+<li>
+<p>主动设置的消息推送，如日程提醒、闹钟、各种软件的提醒；</p>
+<figure data-type="image" tabindex="2"><img src="https://yujiale8.github.io/post-images/1642772033103.png" alt="" loading="lazy"></figure>
 </li>
 <li>
+<p>另一类则是被动接受的消息推送，如垃圾短信、软件广告、促销推广、新闻资讯、聊天吹水；</p>
+</li>
+</ul>
+</li>
+</ul>
 <h3 id="消息推送的历史">消息推送的历史</h3>
 <p>消息推送的历史基本上是<strong>推送技术</strong>（Push technology）的历史，简单来讲，推送技术是一种协议，能够让用户订阅服务器端不定时发送的消息。</p>
 <ol>
@@ -61,16 +59,37 @@
 <li>2012年，谷歌云消息(GCM)取代了谷歌得C2DM，提供了更丰富的命令、数据、和支持；</li>
 <li>2016年，iOS 10 引入了富媒体推送通知，谷歌推出了云消息推送，使得推送不仅仅再是单纯的文字，而是伴随着图像、铃声和交互按键。</li>
 </ol>
-</li>
-</ol>
-<p>延深阅读：<br>
-https://zh.wikipedia.org/wiki/推送技术</p>
+<p>推送技术的本意是好的，它能够让人们方便的快速获取各种消息而不必打开相应的应用程序，但随着人类的注意力逐渐成为一种稀缺的资源，有些应用做起了注意力的生意，大量的消息推送快速占用了用户的注意力。想看的、不想看的、感兴趣的、不感兴趣的，通通占据了手机的通知栏。</p>
+<h3 id="消息推送的利与弊">消息推送的利与弊</h3>
+<p>请先随我设想这样几个场景：</p>
+<blockquote>
+<p>你给你心爱的男神/女神发了一条约饭微信，一秒过去了……一分钟过去了……一小时过去了……你怀疑你或者 Ta 的手机出了问题；</p>
+</blockquote>
+<blockquote>
+<p>你去面试了一个职业，HR会把面试结果通过 Email 发送给你，你这两天一有空就看 Email ，垃圾邮件也不例外；</p>
+</blockquote>
+<blockquote>
+<p>你的领导有工作要布置给你，让你随时关注企业微信。</p>
+</blockquote>
+<p>这时，你收到每一条消息提示想必你都会飞扑过去看个究竟，在这时，呈现在你面前的不是你需要的消息，而是某多多的好友拼单、某度地图提醒你将来三天注意保暖、某团恭喜你被惊喜折扣砸中，不知道你有没有卸载掉他们的冲动。</p>
+<p>但我们不得不承认，我们对消息推送又爱又恨，有时我们迫切需要消息推送，一秒也不能差，有时候我们听到有消息就烦，甚至心生恐惧。因此，我们需要根据自身的需求来定制自己的消息推送。</p>
+<h3 id="定制消息推送的21天">定制消息推送的21天</h3>
+<figure data-type="image" tabindex="3"><img src="https://yujiale8.github.io/post-images/1642781213146.png" alt="" loading="lazy"></figure>
+<p>说到定制消息推送，不得不提<a href="https://play.google.com/store/apps/details?id=com.catchingnow.np">通知滤盒</a>这一款应用。</p>
+<h3 id="延深阅读">延深阅读：</h3>
+<p><a href="https://zh.wikipedia.org/wiki/%E6%8E%A8%E9%80%81%E6%8A%80%E6%9C%AF">推送技术</a><br>
+<a href="https://zh.wikipedia.org/wiki/%E6%B3%A8%E6%84%8F%E5%8A%9B%E7%BB%8F%E6%B5%8E">注意力经济</a><br>
+<a href="https://topbook.cc/overview?selectedArticle=1929">谁发明了消息推送？消息推送如何影响人？</a><br>
+<a href="https://sspai.com/post/70482">注意力使用不完全报告</a><br>
+<a href="http://doi.org/10.1145/2675133.2675221">时间视角下的多任务处理和沟通【英文】</a><br>
+<a href="https://doi.org/10.1145/1054972.1055017">没工作落下了？看看碎片化工作原理【英文】</a><br>
+<a href="https://doi.org/10.1145/223355.223665">工作场所的时间空间：处理干扰</a></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[做图不求人——Canva]]></title>
-        <id>http://localhost:4000/post/zuo-tu-bu-qiu-ren-canva/</id>
-        <link href="http://localhost:4000/post/zuo-tu-bu-qiu-ren-canva/">
+        <id>https://yujiale8.github.io/post/zuo-tu-bu-qiu-ren-canva/</id>
+        <link href="https://yujiale8.github.io/post/zuo-tu-bu-qiu-ren-canva/">
         </link>
         <updated>2022-01-01T14:09:11.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="简介">简介</h2>
@@ -80,7 +99,7 @@ https://zh.wikipedia.org/wiki/推送技术</p>
 <p>领导让写宣传？部门要出海报？想让自己的博客/朋友圈好看点？媒体变革的时代让我们每个人都要学习做图和排版等原本不需要了解的内容。本篇推荐给大家一个网站，能让你快速做出高质量多媒体内容——Canva。</p>
 <!-- more -->
 <p>Canva 是一个可以制作多种多媒体内容的网站，包括但不限于：演示文稿，海报，公众号封面，社交媒体图片，宣传册等，网站内有丰富的图片、免扣素材、音视频等内容，你可以择需取用。</p>
-<figure data-type="image" tabindex="1"><img src="http://localhost:4000/post-images/1641046370613.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://yujiale8.github.io/post-images/1641046370613.png" alt="" loading="lazy"></figure>
 <p>Canva有中文版和国际版两种版本，中文版请访问：<a href="https://www.canva.cn/">https://www.canva.cn/</a>，国际版请访问<a href="https://www.canva.cn/">https://www.canva.com/</a>。本文以Canva中文版为例。相比国际版，中文版有独特的中文字体、模板和特色素材（与视觉中国合作）。为了行文方便，笔者在此使用国际版 Canva 做演示。</p>
 <hr>
 <h2 id="申请">申请</h2>
@@ -96,7 +115,7 @@ https://zh.wikipedia.org/wiki/推送技术</p>
 <p>从👉<a href="https://www.canva.com/education/">这里</a>👈进入，申请 Canva 教育版账号。点击 Sigh up now，选择使用电子邮箱注册。</p>
 </li>
 </ol>
-<figure data-type="image" tabindex="2"><img src="http://localhost:4000/post-images/1641046501977.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://yujiale8.github.io/post-images/1641046501977.png" alt="" loading="lazy"></figure>
 <ol start="2">
 <li>按照提示输入名称、电子邮箱和密码。</li>
 <li>打开邮箱找到验证码。</li>
@@ -114,25 +133,25 @@ https://zh.wikipedia.org/wiki/推送技术</p>
 <li>打开 <a href="http://canva.com">canva.com</a> 登陆刚刚注册的账号；</li>
 <li>点击海报，进入 Canva 编辑的主界面；</li>
 </ol>
-<figure data-type="image" tabindex="3"><img src="http://localhost:4000/post-images/1641046510534.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://yujiale8.github.io/post-images/1641046510534.jpg" alt="" loading="lazy"></figure>
 <ol start="3">
 <li>在模板栏搜索框中搜索“祝贺”，选择自己中意的模板。你可以稍后更改模板中的任何内容，所以不必过于纠结选择模板这件事，要让模板充分符合你创作的主题需要发挥大脑的创造性！</li>
 </ol>
-<figure data-type="image" tabindex="4"><img src="http://localhost:4000/post-images/1641046544267.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="https://yujiale8.github.io/post-images/1641046544267.png" alt="" loading="lazy"></figure>
 <ol start="4">
 <li>选好模板并不是万事大吉，而是刚刚开始。你可以根据主题添加你想要的任何内容，例如我需要把模板中间全部的文字删掉，以利用最中心的空间展示被表彰者。</li>
 <li>点击左侧的文字栏，选择添加标题、副标题或正文文本。你可以点击左上角选择其他字体。这里我想让海报显得正式一点，但又不想让海报显得过于死板，因此我使用一款比较有特色的宋体字——字由点字玄真宋。</li>
 </ol>
-<figure data-type="image" tabindex="5"><img src="http://localhost:4000/post-images/1641046699798.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="5"><img src="https://yujiale8.github.io/post-images/1641046699798.png" alt="" loading="lazy"></figure>
 <ol start="6">
 <li>把表彰人也写上去，由于玄真宋字重较粗，因此表彰人我选用了另一款轻巧的宋体——字由字点美玲体，以便和标题进行区分。</li>
 <li>采用居中对齐的方式对文本内容进行排版。</li>
 </ol>
-<figure data-type="image" tabindex="6"><img src="http://localhost:4000/post-images/1641046705414.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="https://yujiale8.github.io/post-images/1641046705414.png" alt="" loading="lazy"></figure>
 <ol start="8">
 <li>基本完工后选择右上角下载，调整下载格式即可。</li>
 </ol>
-<figure data-type="image" tabindex="7"><img src="http://localhost:4000/post-images/1641046737204.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="7"><img src="https://yujiale8.github.io/post-images/1641046737204.png" alt="" loading="lazy"></figure>
 <hr>
 <h2 id="扩展阅读">扩展阅读</h2>
 <p>如你所见，使用 Canva 制作海报或演示文稿非常简单。但是，只使用 Canva 就完成整个创作是很困难的，你还需要其他工具的帮助。因此，本文只是简单介绍 Canva 的工作流程，如果想要制作好的作品，你还需要掌握关于设计的一些基本知识，下面介绍一些原理、技巧、工具，以便在设计上做进一步探索：</p>
@@ -141,15 +160,15 @@ https://zh.wikipedia.org/wiki/推送技术</p>
 <p>关于设计：推荐《写给大家的设计书》</p>
 <hr>
 <p>另附 Canva 快捷键一图</p>
-<figure data-type="image" tabindex="8"><img src="http://localhost:4000/post-images/1641046780525.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="8"><img src="https://yujiale8.github.io/post-images/1641046780525.png" alt="" loading="lazy"></figure>
 <aside>
 ✅ 本文遵循 CC BY-NC 协议分享和使用。
 </aside>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[A brief intro to Semantics]]></title>
-        <id>http://localhost:4000/post/semantics/</id>
-        <link href="http://localhost:4000/post/semantics/">
+        <id>https://yujiale8.github.io/post/semantics/</id>
+        <link href="https://yujiale8.github.io/post/semantics/">
         </link>
         <updated>2022-01-01T13:53:57.000Z</updated>
         <content type="html"><![CDATA[<h2 id="semantics"><strong>Semantics</strong></h2>
@@ -164,7 +183,7 @@ https://zh.wikipedia.org/wiki/推送技术</p>
 This sentence is syntactically perfect : S =&gt; NP + VP ( V + NP )<br>
 But the meaning is not acceptable. The verb and the subject do not relate each other.<br>
 We identify the meaning by analyzing some <strong>semantic features</strong> .</p>
-<figure data-type="image" tabindex="1"><img src="http://localhost:4000/post-images/1641045354214.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://yujiale8.github.io/post-images/1641045354214.png" alt="" loading="lazy"></figure>
 <h2 id="semantic-roles"><strong>Semantic Roles</strong></h2>
 <p><strong>Agent</strong>: an entiy that performs an action (John ran.)</p>
 <p><strong>Theme</strong>: an entity that undergoes an action or is involved in an action or affected by an action or is simply described (Mary called <strong>Bill</strong>; <strong>The ball</strong> is red.)</p>
@@ -198,7 +217,7 @@ rose is a hyponymy of flower - carrot is a hyponymy of vegetable<br>
 Co – Hyponymy/ Super ordinate<br>
 Animal ( super ordinate ) =&gt; horse / dog / bird<br>
 Horse, dog, bird =&gt; co- hyponymies of animal</p>
-<figure data-type="image" tabindex="2"><img src="http://localhost:4000/post-images/1641045390639.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://yujiale8.github.io/post-images/1641045390639.png" alt="" loading="lazy"></figure>
 <h3 id="prototypes"><strong>Prototypes</strong></h3>
 <p>A prototype is the best example of a category.</p>
 <h3 id="homophony"><strong>Homophony</strong></h3>
@@ -225,8 +244,8 @@ They frequently occur together.</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[教与玩，初论教育与玩乐]]></title>
-        <id>http://localhost:4000/post/education-and-fun/</id>
-        <link href="http://localhost:4000/post/education-and-fun/">
+        <id>https://yujiale8.github.io/post/education-and-fun/</id>
+        <link href="https://yujiale8.github.io/post/education-and-fun/">
         </link>
         <updated>2022-01-01T13:27:57.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
@@ -259,8 +278,8 @@ They frequently occur together.</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Joel 最近都折腾了什么？]]></title>
-        <id>http://localhost:4000/post/joel-zui-jin-du-zhe-teng-liao-shi-me/</id>
-        <link href="http://localhost:4000/post/joel-zui-jin-du-zhe-teng-liao-shi-me/">
+        <id>https://yujiale8.github.io/post/joel-zui-jin-du-zhe-teng-liao-shi-me/</id>
+        <link href="https://yujiale8.github.io/post/joel-zui-jin-du-zhe-teng-liao-shi-me/">
         </link>
         <updated>2022-01-01T07:19:55.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
@@ -297,8 +316,8 @@ They frequently occur together.</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Joel 都在读些什么？]]></title>
-        <id>http://localhost:4000/post/joel-is-reading-something/</id>
-        <link href="http://localhost:4000/post/joel-is-reading-something/">
+        <id>https://yujiale8.github.io/post/joel-is-reading-something/</id>
+        <link href="https://yujiale8.github.io/post/joel-is-reading-something/">
         </link>
         <updated>2021-12-31T14:25:00.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
@@ -348,8 +367,8 @@ They frequently occur together.</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Markdown 入门指北]]></title>
-        <id>http://localhost:4000/post/markdown-ru-men-zhi-bei/</id>
-        <link href="http://localhost:4000/post/markdown-ru-men-zhi-bei/">
+        <id>https://yujiale8.github.io/post/markdown-ru-men-zhi-bei/</id>
+        <link href="https://yujiale8.github.io/post/markdown-ru-men-zhi-bei/">
         </link>
         <updated>2021-12-29T06:22:03.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
@@ -663,11 +682,11 @@ They frequently occur together.</p>
 </code></pre>
 <p><strong>预览</strong></p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8617947"><label class="task-list-item-label" for="task-item-8617947"> 纯牛奶</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-835611"><label class="task-list-item-label" for="task-item-835611"> 西瓜</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7045138"><label class="task-list-item-label" for="task-item-7045138"> 鸡蛋</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-1670754"><label class="task-list-item-label" for="task-item-1670754"> 保鲜膜</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4475800"><label class="task-list-item-label" for="task-item-4475800"> 猪肉（暂时买不起）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-74425"><label class="task-list-item-label" for="task-item-74425"> 纯牛奶</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-1632329"><label class="task-list-item-label" for="task-item-1632329"> 西瓜</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2456177"><label class="task-list-item-label" for="task-item-2456177"> 鸡蛋</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5125920"><label class="task-list-item-label" for="task-item-5125920"> 保鲜膜</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6438074"><label class="task-list-item-label" for="task-item-6438074"> 猪肉（暂时买不起）</label></li>
 </ul>
 <h3 id="引用">引用<a href="#%E5%BC%95%E7%94%A8"></a></h3>
 <p>在每一行使用 <code>&gt;</code> 符号，包括换行的句子。</p>
@@ -892,8 +911,8 @@ by 普希金</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[初见]]></title>
-        <id>http://localhost:4000/post/hello-from-joel/</id>
-        <link href="http://localhost:4000/post/hello-from-joel/">
+        <id>https://yujiale8.github.io/post/hello-from-joel/</id>
+        <link href="https://yujiale8.github.io/post/hello-from-joel/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
