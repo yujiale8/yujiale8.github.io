@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yujiale8.github.io</id>
     <title>Joelの部落格</title>
-    <updated>2022-01-11T07:19:16.019Z</updated>
+    <updated>2022-01-21T05:05:48.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yujiale8.github.io"/>
     <link rel="self" href="https://yujiale8.github.io/atom.xml"/>
@@ -606,11 +606,11 @@ They frequently occur together.</p>
 </code></pre>
 <p><strong>预览</strong></p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5859001"><label class="task-list-item-label" for="task-item-5859001"> 纯牛奶</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-1411051"><label class="task-list-item-label" for="task-item-1411051"> 西瓜</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-421747"><label class="task-list-item-label" for="task-item-421747"> 鸡蛋</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-1228450"><label class="task-list-item-label" for="task-item-1228450"> 保鲜膜</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6577030"><label class="task-list-item-label" for="task-item-6577030"> 猪肉（暂时买不起）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4252041"><label class="task-list-item-label" for="task-item-4252041"> 纯牛奶</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-9696815"><label class="task-list-item-label" for="task-item-9696815"> 西瓜</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5408085"><label class="task-list-item-label" for="task-item-5408085"> 鸡蛋</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-7783544"><label class="task-list-item-label" for="task-item-7783544"> 保鲜膜</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9778236"><label class="task-list-item-label" for="task-item-9778236"> 猪肉（暂时买不起）</label></li>
 </ul>
 <h3 id="引用">引用<a href="#%E5%BC%95%E7%94%A8"></a></h3>
 <p>在每一行使用 <code>&gt;</code> 符号，包括换行的句子。</p>
@@ -854,8 +854,8 @@ by 普希金</p>
 格外注重个人空间（社恐），尤其擅长知难而退（打退堂鼓），特别关注数字生活（爱玩游戏）。</p>
 <h2 id="关于本博客">关于本博客 📕</h2>
 <ul>
-<li>写本人正在实践的理论，正在阅读的书目，正在讨论的话题，正在关注的焦点；</li>
-<li>译介数字生活与知识管理、时间管理、英语学习等文章；</li>
+<li>写本人正在实践的<strong>理论</strong>，正在阅读的书目，正在讨论的<strong>话题</strong>，正在关注的焦点；</li>
+<li>译介<strong>数字生活</strong>与<strong>知识</strong>管理、<strong>时间</strong>管理、<strong>英语</strong>学习等文章；</li>
 <li>有幻灯制作，有教育心理，有数字生活，有新闻锐评，琳琅满目，鳞次栉比；</li>
 <li>肥而不腻，瘦而不柴，软糯可口，咸香四溢，包您满意；</li>
 <li>未完待续……</li>
