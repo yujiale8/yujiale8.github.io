@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yujiale8.github.io</id>
     <title>Joelの部落格</title>
-    <updated>2022-01-21T16:29:59.820Z</updated>
+    <updated>2022-01-22T06:29:01.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yujiale8.github.io"/>
     <link rel="self" href="https://yujiale8.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://yujiale8.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Joelの部落格</rights>
     <entry>
-        <title type="html"><![CDATA[消息推送什么的（上）]]></title>
+        <title type="html"><![CDATA[还你一个干净的消息栏（上）]]></title>
         <id>https://yujiale8.github.io/post/xiao-xi-tui-song-shi-me-de-shang/</id>
         <link href="https://yujiale8.github.io/post/xiao-xi-tui-song-shi-me-de-shang/">
         </link>
@@ -25,10 +25,17 @@
 <p>- 我好像看过他的视频来着，点进去瞅瞅。</p>
 <p>2000 Years Later.jpg</p>
 <hr>
+<blockquote>
+<h3 id="tl-dr">TL, DR</h3>
+<p>人们大约需要平均23分钟才能重新回到被打断前的任务中；<br>
+人类的注意力逐渐成为一种稀缺的资源，而大量的消息推送快速占用了用户的注意力；</p>
+</blockquote>
 <p>嗨，你好呀！<br>
 上面的场景你一定很熟悉，生怕错失微信消息、在APP之间换来换去、有意识无意识地刷着朋友圈、与手机上的小红点作斗争。当然，偶尔也会反思，甚至怪罪自己：是不是自己不够专注？是不是自己的自制力不足？导致我的注意力任由他人摆布……</p>
 <p>你有没有想过，如果这些都不是你的错呢？如果消息推送的本意就是为了吸引你停下手中的工作，打开他们的APP呢？</p>
-<p>调用复杂的工具是有启动成本的，启动一台计算机尚且需要数十秒，调动人体的注意力，使人脑处于高速运转状态，更需要时间。有<a href="https://doi.org/10.1145/1054972.1055017">研究</a>指出，<strong>人们大约需要平均23分钟才能重新回到被打断前的任务中</strong>。这意味着，当你放任手机消息推送不管时，他就会在你泡好咖啡准备享受美好时光之时，蹦出来吞掉你一个又一个的23分钟。那么，是时候好好了解鲸吞蚕食注意力与时间的消息推送。</p>
+<p>调用复杂的工具是有启动成本的，启动一台计算机尚且需要数十秒，调动人体的注意力，使人脑处于高速运转状态，更需要时间。有<a href="https://doi.org/10.1145/1054972.1055017">研究</a>指出，<strong>人们大约需要平均23分钟才能重新回到被打断前的任务中</strong>。这意味着，当你放任手机消息推送不管时，他就会在你泡好咖啡准备享受美好时光之时，蹦出来吞掉你一个又一个的23分钟。</p>
+<p>信息爆炸的时代，我们每个人平均每天都会收到上百条消息推送，而最关键的是，这些推送往往并不是我们主动想要接收的，有些重要的通知也被裹挟在营销推送的洪流中，迫使我们不得不在杂草中找到那颗真正的麦子。<br>
+那么，是时候好好了解鲸吞蚕食注意力与时间的消息推送。</p>
 <h2 id="认识消息推送">认识消息推送</h2>
 <h3 id="消息推送的类型">消息推送的类型</h3>
 <ul>
@@ -73,17 +80,25 @@
 </blockquote>
 <p>这时，你收到每一条消息提示想必你都会飞扑过去看个究竟，在这时，呈现在你面前的不是你需要的消息，而是某多多的好友拼单、某度地图提醒你将来三天注意保暖、某团恭喜你被惊喜折扣砸中，不知道你有没有卸载掉他们的冲动。</p>
 <p>但我们不得不承认，我们对消息推送又爱又恨，有时我们迫切需要消息推送，一秒也不能差，有时候我们听到有消息就烦，甚至心生恐惧。因此，我们需要根据自身的需求来定制自己的消息推送。</p>
-<h3 id="定制消息推送的21天">定制消息推送的21天</h3>
-<figure data-type="image" tabindex="3"><img src="https://yujiale8.github.io/post-images/1642781213146.png" alt="" loading="lazy"></figure>
+<h3 id="我定制消息推送的21天">我定制消息推送的21天</h3>
+<p>由于之前就有关闭垃圾消息推送的习惯，为了观察各种应用程序的推送情况，我重新打开了所有应用程序的消息推送功能，并且给自己设定目标：在接下去的两个周，特别注意观察我会收到什么样的消息推送。</p>
+<h4 id="观察">观察</h4>
+<p>对于我而言，我收到最多的消息推送是大量无意义的内容：钉钉群大量无意义的签到和谢谢、微信群中的聊天和吹水，其次是大量营销推送，最后是各种软件的功能提醒。</p>
+<p>无论是功能类APP，还是即时通讯消息，他们都平铺在整个白天当中，无论工作还是休息。</p>
+<h4 id="大杀特杀">大杀特杀</h4>
+<p>在各种消息推送肆意妄为之时，我早已准备对他们痛下杀手。</p>
 <p>说到定制消息推送，不得不提<a href="https://play.google.com/store/apps/details?id=com.catchingnow.np">通知滤盒</a>这一款应用。</p>
+<figure data-type="image" tabindex="3"><img src="https://yujiale8.github.io/post-images/1642781213146.png" alt="" loading="lazy"></figure>
 <h3 id="延深阅读">延深阅读：</h3>
-<p><a href="https://zh.wikipedia.org/wiki/%E6%8E%A8%E9%80%81%E6%8A%80%E6%9C%AF">推送技术</a><br>
-<a href="https://zh.wikipedia.org/wiki/%E6%B3%A8%E6%84%8F%E5%8A%9B%E7%BB%8F%E6%B5%8E">注意力经济</a><br>
-<a href="https://topbook.cc/overview?selectedArticle=1929">谁发明了消息推送？消息推送如何影响人？</a><br>
-<a href="https://sspai.com/post/70482">注意力使用不完全报告</a><br>
-<a href="http://doi.org/10.1145/2675133.2675221">时间视角下的多任务处理和沟通【英文】</a><br>
-<a href="https://doi.org/10.1145/1054972.1055017">没工作落下了？看看碎片化工作原理【英文】</a><br>
-<a href="https://doi.org/10.1145/223355.223665">工作场所的时间空间：处理干扰</a></p>
+<ol>
+<li><a href="https://zh.wikipedia.org/wiki/%E6%8E%A8%E9%80%81%E6%8A%80%E6%9C%AF">推送技术</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/%E6%B3%A8%E6%84%8F%E5%8A%9B%E7%BB%8F%E6%B5%8E">注意力经济</a></li>
+<li><a href="https://topbook.cc/overview?selectedArticle=1929">谁发明了消息推送？消息推送如何影响人？</a></li>
+<li><a href="https://sspai.com/post/70482">注意力使用不完全报告</a></li>
+<li><a href="http://doi.org/10.1145/2675133.2675221">时间视角下的多任务处理和沟通【英文】</a></li>
+<li><a href="https://doi.org/10.1145/1054972.1055017">没工作落下了？看看碎片化工作原理【英文】</a></li>
+<li><a href="https://doi.org/10.1145/223355.223665">工作场所的时间空间：处理干扰【英文】</a></li>
+</ol>
 ]]></content>
     </entry>
     <entry>
@@ -682,11 +697,11 @@ They frequently occur together.</p>
 </code></pre>
 <p><strong>预览</strong></p>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-74425"><label class="task-list-item-label" for="task-item-74425"> 纯牛奶</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-1632329"><label class="task-list-item-label" for="task-item-1632329"> 西瓜</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2456177"><label class="task-list-item-label" for="task-item-2456177"> 鸡蛋</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-5125920"><label class="task-list-item-label" for="task-item-5125920"> 保鲜膜</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6438074"><label class="task-list-item-label" for="task-item-6438074"> 猪肉（暂时买不起）</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-2684606"><label class="task-list-item-label" for="task-item-2684606"> 纯牛奶</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-2750847"><label class="task-list-item-label" for="task-item-2750847"> 西瓜</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-253953"><label class="task-list-item-label" for="task-item-253953"> 鸡蛋</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6826753"><label class="task-list-item-label" for="task-item-6826753"> 保鲜膜</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7741419"><label class="task-list-item-label" for="task-item-7741419"> 猪肉（暂时买不起）</label></li>
 </ul>
 <h3 id="引用">引用<a href="#%E5%BC%95%E7%94%A8"></a></h3>
 <p>在每一行使用 <code>&gt;</code> 符号，包括换行的句子。</p>
